@@ -3,7 +3,7 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2024 | 
-| Student Name | |
+| Student Name | Vishva |
 | Student Number | |
 | Github Account | |
 
